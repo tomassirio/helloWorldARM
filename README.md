@@ -92,4 +92,4 @@ So, we created our .o object with the first command and then we link it on the s
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/b5e1z979oz8ft3ziy6cw.png)
 
-Link to the DEV.to Post
+Link to the [DEV.to Post](https://dev.to/tomassirio/hello-world-in-arm-isas-26l5)
